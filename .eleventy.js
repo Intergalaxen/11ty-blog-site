@@ -1,12 +1,16 @@
-module.exports = function(eleventyConfig) {
+const { DateTime } = require("luxon");
 
-    eleventyConfig.addPassthroughCopy('./src/style.css');
-    eleventyConfig.addPassthroughCopy('./src/assets');
-    
-    return {
-        dir: {
-        input: "src",
-        output: "public"
-        }
-    };
-}
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("./src/style.css");
+  eleventyConfig.addPassthroughCopy("./src/assets");
+  eleventyConfig.addFilter("postDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toLocalString(DateTime.DATE_MED);
+  });
+
+  return {
+    dir: {
+      input: "src",
+      output: "public",
+    },
+  };
+};
