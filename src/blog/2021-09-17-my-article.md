@@ -1,5 +1,5 @@
 ---
-title: My article
+title: My Article test
 description: This is a test article to see if everything works as planned
 author: Alfrida Westberg
 date: 2021-09-17T15:05:24.257Z
