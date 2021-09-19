@@ -12,7 +12,7 @@ tags:
   - post
   - featured
 image: /assets/blog/james-allen-tepldfsg3he-unsplash.jpg
-imageAlt: A coil spring that is hooked into something
+imageAlt: Image of a coil spring
 ---
 During the laboratory in the physics 2 class, we had to use a coil spring and a pendulum to define the spring constant and the gravitational constant which may not seem so super exciting at first glance. But what began to fascinate me during the course of the laboratory were these fundamental forces that we are unconsciously influenced by in our everyday lives, every moment throughout our whole lifetime. This got me interested in researching the subject more carefully and found that these seemingly insignificant forces act on a deep plane within every single one of us living on Earth. Not only that, these forces work as far as our universe is observable with nowadays technology. Isn't that amazing?
 
