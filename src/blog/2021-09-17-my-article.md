@@ -1,15 +1,20 @@
 ---
-title: My Article (test)
-description: This is a test article to see if everything works as planned
+title: Introduction to harmonic oscillations using a coil spring
+description: An interesting phenomenon that we have just begun to look more
+  closely at in the physics class is harmonic oscillations, they seem to be a
+  fundamental building block in the structure of the whole universe and make me
+  wonder how everything works in depth. I will now describe my thoughts that I
+  am in right now in this topic and am super excited about having created this
+  blog and can share these thoughts with a potential reader.
 author: Alfrida Westberg
 date: 2021-09-17T15:05:24.257Z
 tags:
   - post
   - featured
-image: /assets/blog/inlänmingsuppg.-centralrörelse1-3.jpg
-imageAlt: My physics homework
+image: /assets/blog/james-allen-tepldfsg3he-unsplash.jpg
+imageAlt: A coil spring that is hooked into something
 ---
+During the laboratory in the physics 2 class, we had to use a coil spring and a pendulum to define the spring constant and the gravitational constant which may not seem so super exciting at first glance. But what began to fascinate me during the course of the laboratory were these fundamental forces that we are unconsciously influenced by in our everyday lives, every moment throughout our whole lifetime. This got me interested in researching the subject more carefully and found that these seemingly insignificant forces act on a deep plane within every single one of us living on Earth. Not only that, these forces work as far as our universe is observable with nowadays technology. Isn't that amazing?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae turpis massa. Amet tellus cras **adipiscing** enim eu turpis egestas pretium aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Mi eget mauris pharetra et. Et tortor at risus viverra. Id eu nisl nunc mi ipsum faucibus vitae. Malesuada nunc vel risus commodo viverra maecenas. Et netus et _malesuada_ fames ac turpis egestas sed. Massa vitae tortor condimentum lacinia quis. Eu augue ut lectus arcu bibendum at varius. Enim nec dui nunc mattis enim ut tellus elementum sagittis. In fermentum et sollicitudin ac orci. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Id porta nibh venenatis cras sed felis eget velit. In hac habitasse platea dictumst.
-
-Amet est placerat in egestas erat imperdiet sed euismod. Elementum pulvinar etiam non quam. Pharetra convallis posuere morbi leo urna molestie. Varius duis at consectetur lorem donec massa. Id semper risus in hendrerit gravida rutrum quisque. Adipiscing elit pellentesque habitant morbi tristique senectus. Tortor pretium viverra suspendisse potenti. Aenean et tortor at risus viverra adipiscing at in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Eu augue ut lectus arcu bibendum at varius vel pharetra. Facilisis magna etiam tempor orci eu. Habitant morbi tristique senectus et. Eu facilisis sed odio morbi quis commodo. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Nulla posuere sollicitudin aliquam ultrices sagittis. At imperdiet dui accumsan sit amet nulla. Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. Tortor id aliquet lectus proin nibh. Tellus at urna condimentum mattis.
+Something that may at first seem like something insignificant can, with a little research, be a basic piece of the puzzle throughout our existence. I will continue to be interested in this subject, this was just an awakening to a greater understanding of life's marvelous mechanisms. Since the course continues throughout the fall, there will probably be more articles in the subject of physics.
+This was what I had in mind today, take care of you for now and I will come back with more articles on other topics that I will find interesting soon!
