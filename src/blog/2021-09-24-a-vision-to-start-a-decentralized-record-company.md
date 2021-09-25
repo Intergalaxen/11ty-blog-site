@@ -14,8 +14,6 @@ tags:
 image: /assets/blog/james-stamler-k3hed_kwh0a-unsplash.jpg
 imageAlt: image
 ---
-
-
 https://www.notion.so/rarible/Rarible-com-FAQ-a47b276aa1994f7c8e3bc96d700717c5
 
 https://opensea.io/collection/music
@@ -24,6 +22,6 @@ En av deltagarna i KB4 jobbar som utvecklare på Mintbase som använder sig av N
 
 https://www.mintbase.io/market/music
 
-I ett avsnitt från [Musikbranschpodden](https://open.spotify.com/show/7bnvk6OnqD8TsZWCsiENPS) intervjuas Örjan sandberg om rättigheter inom musik:
+Linda Portnoff och Paulina Modlitba diskuterar musikbranchens framtid
 
-https://open.spotify.com/episode/4C5HYgCFSdvzH7a9YmJ52i
+https://www.youtube.com/watch?v=6AADHkDo9RY
