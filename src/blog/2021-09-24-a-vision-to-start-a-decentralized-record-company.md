@@ -14,7 +14,7 @@ tags:
 image: /assets/blog/james-stamler-k3hed_kwh0a-unsplash.jpg
 imageAlt: image
 ---
-lorem
+
 
 En av deltagarna i KB4 jobbar som utvecklare på Mintbase som använder sig av NFTs för att sälja bland annat musik:
 
