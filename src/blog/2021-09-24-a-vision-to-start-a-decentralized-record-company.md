@@ -12,7 +12,7 @@ tags:
   - post
   - featured
 image: /assets/blog/james-stamler-k3hed_kwh0a-unsplash.jpg
-imageAlt: image
+imageAlt: Image of some music stuff
 ---
 <https://www.notion.so/rarible/Rarible-com-FAQ-a47b276aa1994f7c8e3bc96d700717c5>
 
