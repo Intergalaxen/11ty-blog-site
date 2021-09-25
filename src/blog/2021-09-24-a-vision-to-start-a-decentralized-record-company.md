@@ -1,5 +1,5 @@
 ---
-title: A vision to start a decentralized record company
+title: A vision to start a decentralized record label
 description: After a divine kick-off of KERNEL Block 4, I have now received
   strong motivation to develop a decenteralized application (dapp) during this
   8-week journey that we have now begun together. The idea with the project that
