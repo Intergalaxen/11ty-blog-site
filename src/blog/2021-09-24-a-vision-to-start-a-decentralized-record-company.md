@@ -15,3 +15,11 @@ image: /assets/blog/james-stamler-k3hed_kwh0a-unsplash.jpg
 imageAlt: image
 ---
 lorem
+
+En av deltagarna i KB4 jobbar som utvecklare på Mintbase som använder sig av NFTs för att sälja bland annat musik:
+
+https://www.mintbase.io/market/music
+
+I ett avsnitt från [Musikbranschpodden](https://open.spotify.com/show/7bnvk6OnqD8TsZWCsiENPS) intervjuas Örjan sandberg om rättigheter inom musik:
+
+https://open.spotify.com/episode/4C5HYgCFSdvzH7a9YmJ52i
