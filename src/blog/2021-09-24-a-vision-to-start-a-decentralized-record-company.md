@@ -12,7 +12,7 @@ tags:
 image: /assets/blog/james-stamler-k3hed_kwh0a-unsplash.jpg
 imageAlt: Image of some music stuff
 ---
-After a divine kick-off of KERNEL Block 4, I have now received strong motivation to develop a decenteralized application (dapp) during this 8-week journey that we have now begun together. The idea with the project that I intend to start, is a dapp where musicians with the help of NFTs should have the option to put their music available to the public with a smart contract that acts as a record company assuming they recorded the music themselves.
+After a divine kick-off of [KERNEL](https://kernel.community/en/) Block 4, I have now received strong motivation to develop a decenteralized application (dapp) during this 8-week journey that we have now begun together. The idea with the project that I intend to start, is a dapp where musicians with the help of NFTs should have the option to put their music available to the public with a smart contract that acts as a record company assuming they recorded the music themselves.
 
 <https://www.notion.so/rarible/Rarible-com-FAQ-a47b276aa1994f7c8e3bc96d700717c5>
 
