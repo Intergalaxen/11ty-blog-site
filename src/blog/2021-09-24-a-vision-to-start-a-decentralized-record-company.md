@@ -16,7 +16,7 @@ imageAlt: image
 ---
 
 
-
+https://www.notion.so/rarible/Rarible-com-FAQ-a47b276aa1994f7c8e3bc96d700717c5
 
 https://opensea.io/collection/music
 
