@@ -14,14 +14,14 @@ tags:
 image: /assets/blog/james-stamler-k3hed_kwh0a-unsplash.jpg
 imageAlt: image
 ---
-https://www.notion.so/rarible/Rarible-com-FAQ-a47b276aa1994f7c8e3bc96d700717c5
+<https://www.notion.so/rarible/Rarible-com-FAQ-a47b276aa1994f7c8e3bc96d700717c5>
 
-https://opensea.io/collection/music
+[](https://www.notion.so/rarible/Rarible-com-FAQ-a47b276aa1994f7c8e3bc96d700717c5)<https://opensea.io/collection/music>
 
-En av deltagarna i KB4 jobbar som utvecklare på Mintbase som använder sig av NFTs för att sälja bland annat musik:
+[](https://opensea.io/collection/music)En av deltagarna i KB4 jobbar som utvecklare på Mintbase som använder sig av NFTs för att sälja bland annat musik:
 
-https://www.mintbase.io/market/music
+<https://www.mintbase.io/market/music>
 
 Linda Portnoff och Paulina Modlitba diskuterar musikbranchens framtid
 
-https://www.youtube.com/watch?v=6AADHkDo9RY
+<https://www.youtube.com/watch?v=6AADHkDo9RY>
