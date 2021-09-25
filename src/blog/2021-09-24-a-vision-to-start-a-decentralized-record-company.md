@@ -16,6 +16,10 @@ imageAlt: image
 ---
 
 
+
+
+https://opensea.io/collection/music
+
 En av deltagarna i KB4 jobbar som utvecklare på Mintbase som använder sig av NFTs för att sälja bland annat musik:
 
 https://www.mintbase.io/market/music
