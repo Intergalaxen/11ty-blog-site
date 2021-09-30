@@ -8,6 +8,7 @@ author: Alfrida Westberg
 date: 2021-09-30T14:35:12.430Z
 tags:
   - post
+  - featured
 image: /assets/blog/pierre-borthiry-vbcvcwuyvym-unsplash.jpg
 imageAlt: Image shows two coins infront of a computer screen
 ---
