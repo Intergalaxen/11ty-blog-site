@@ -10,7 +10,6 @@ author: Alfrida Westberg
 date: 2021-09-17T15:05:24.257Z
 tags:
   - post
-  - featured
 image: /assets/blog/james-allen-tepldfsg3he-unsplash.jpg
 imageAlt: Image of a coil spring
 ---
