@@ -26,4 +26,4 @@ So how do I define value and trust?
 
 By value I think the key is laying within a shared intrested between peers. My music for examle have a greater value for me because because the lyrics touches me on a deep level and I produce the music to lift that I meaning that I want to convey. For someone hwo's just interested in making money out of the song the value changes. The value for me is still the same but what if I want others to be able to hear that song I will need to compromise this value to the value to a sum of money that someone have valued the song to be woth in the context of how well it would sell on the market.
 
-Then about trust. I can only understand trust fully whan I first know what it means to lie. When someone
+Then about trust. I can only understand trust fully whan I first know what it means to lie.
